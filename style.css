@@ -24,8 +24,12 @@ input {
     margin: 0 1rem;
 }
 
-h3 {
+h2 {
     margin-top: 17rem;
+    color: rgb(196, 179, 179);
+}
+
+h3 {
     color: rgb(196, 179, 179);
     font-size: 2rem;
 }
